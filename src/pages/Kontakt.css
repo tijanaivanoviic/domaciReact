@@ -1,0 +1,16 @@
+.wrap{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    align-self: center;
+}
+.contact{
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: antiquewhite;
+    color: black;
+}
